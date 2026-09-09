@@ -1,0 +1,3 @@
+Q: what is Photoperiodism?
+A: Photoperiodism refers to the response of plants to the photoperiod, which is the duration of light and dark periods in a day. This response is expressed in the form of flowering. In other words, it's the plant's way of determining the change in seasons based on the amount of light it receives. If the plant receives a certain amount of light for a specific period, it triggers the flowering process. This is controlled by a photo reversible proteinaceous plant pigment called phytochrome, which absorbs red and far-red light to regulate flowering.
+
